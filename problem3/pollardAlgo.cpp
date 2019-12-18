@@ -7,9 +7,9 @@
 
 unsigned long long pollardAlgo(unsigned long long bigNum)
 {
-    unsigned long long xFixed,
-                    x,
-                    cycleSize = 2;
+    unsigned long long xFixed = 2;
+    unsigned long long x = 2;
+    unsigned long long cycleSize = 2;
     unsigned long long factor = 1;
 
     while(factor == 1)

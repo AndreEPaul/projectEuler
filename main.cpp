@@ -4,11 +4,15 @@
 
 #include <iostream>
 #include <chrono>
+#include <vector>
 #include "problem1/sumFunctionProb1.h"
 #include "problem2/fibFunctionProb2.h"
+#include "problem3/factorLargeNumber.h"
+#include "problem3/maxInVector.h"
 
 using std::cout;
 using std::endl;
+using std::vector;
 
 int main()
 {
@@ -39,6 +43,24 @@ int main()
     cout << "----------------------------------------\n";
     cout << "PROBLEM 2: The sum of all even fibonacci numbers up through 4 million is\n";
     cout << result2 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << "to calculate this result. \n";
+    cout << "----------------------------------------" << endl;
+
+    /// Reassign times, call new function.
+    time1 = std::chrono::high_resolution_clock::now();
+
+    /// For now, pass literals
+    vector <unsigned long long> listFactorsProb3 = factorLargeNumber(600851475143);
+
+    /// Must get max from this vector for context of problem3.
+    unsigned long long result3 = maxInVector(listFactorsProb3);
+
+    time2 = std::chrono::high_resolution_clock::now();
+    durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
+
+    cout << "----------------------------------------\n";
+    cout << "PROBLEM 3: The largest prime factor of 600851475143 is\n";
+    cout << result3 << " and this program took " << durationFunction << " milliseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 

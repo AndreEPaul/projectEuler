@@ -16,4 +16,4 @@ add_executable(eulerProjectSolutions
         problem3/gcdFunction.cpp
         problem3/gcdFunction.h
         problem3/pollardAlgo.cpp
-        problem3/pollardAlgo.h)
+        problem3/pollardAlgo.h problem3/maxInVector.cpp problem3/maxInVector.h)

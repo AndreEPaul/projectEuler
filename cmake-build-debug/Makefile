@@ -285,6 +285,33 @@ problem3/gcdFunction.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.s
 .PHONY : problem3/gcdFunction.cpp.s
 
+problem3/maxInVector.o: problem3/maxInVector.cpp.o
+
+.PHONY : problem3/maxInVector.o
+
+# target to build an object file
+problem3/maxInVector.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o
+.PHONY : problem3/maxInVector.cpp.o
+
+problem3/maxInVector.i: problem3/maxInVector.cpp.i
+
+.PHONY : problem3/maxInVector.i
+
+# target to preprocess a source file
+problem3/maxInVector.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.i
+.PHONY : problem3/maxInVector.cpp.i
+
+problem3/maxInVector.s: problem3/maxInVector.cpp.s
+
+.PHONY : problem3/maxInVector.s
+
+# target to generate assembly for a file
+problem3/maxInVector.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.s
+.PHONY : problem3/maxInVector.cpp.s
+
 problem3/pollardAlgo.o: problem3/pollardAlgo.cpp.o
 
 .PHONY : problem3/pollardAlgo.o
@@ -339,6 +366,9 @@ help:
 	@echo "... problem3/gcdFunction.o"
 	@echo "... problem3/gcdFunction.i"
 	@echo "... problem3/gcdFunction.s"
+	@echo "... problem3/maxInVector.o"
+	@echo "... problem3/maxInVector.i"
+	@echo "... problem3/maxInVector.s"
 	@echo "... problem3/pollardAlgo.o"
 	@echo "... problem3/pollardAlgo.i"
 	@echo "... problem3/pollardAlgo.s"

@@ -113,6 +113,12 @@
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/gcdFunction.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>

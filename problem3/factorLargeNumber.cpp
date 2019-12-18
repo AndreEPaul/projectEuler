@@ -13,12 +13,25 @@ vector <unsigned long long> factorLargeNumber(unsigned long long bigNum)
 {
     vector <unsigned long long> listOfFactors;
 
-    // First, use pollards Algo to attempt to get
+    // use pollards Algo to attempt to get
     // a non-trivial factor of bigNum.
-    unsigned long long factor = pollardAlgo(bigNum);
-    
-    if(factor > 1)
+
+    unsigned long long factor = 1;
+
+    while(factor != bigNum)
     {
+        factor = pollardAlgo(bigNum);
+
+        // Divide to get "new" number to continue factoring.
+        bigNum /= factor;
+        factor = pollardAlgo(bigNum);
+
+        // Add factor to list.
         listOfFactors.push_back(factor);
     }
+
+    // Will be one factor left over, add this one too.
+    listOfFactors.push_back(factor);
+
+    return listOfFactors;
 }
