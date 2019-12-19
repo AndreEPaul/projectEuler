@@ -11,6 +11,8 @@
 #include "problem3/maxInVector.h"
 #include "problem4/generatePalindromes.h"
 #include "problem5/multipleLcms.h"
+#include "problem6/squareOfSum.h"
+#include "problem6/sumOfSquares.h"
 
 using std::cout;
 using std::endl;
@@ -104,6 +106,23 @@ int main()
     cout << "----------------------------------------\n";
     cout << "PROBLEM 5: The least common multiple of 1-20 is \n";
     cout << result5 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << "to calculate this result. \n";
+    cout << "----------------------------------------" << endl;
+
+    /// Reassign times, call new function.
+    time1 = std::chrono::high_resolution_clock::now();
+
+    /// Pass integer limit.
+    int limit = 100;
+    int result6 = squareOfSum(limit) - sumOfSquares(limit);
+
+    time2 = std::chrono::high_resolution_clock::now();
+    durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
+
+    cout << "----------------------------------------\n";
+    cout << "PROBLEM 6: The difference between the sum of squares \n";
+    cout << "and the square of summation up through 100 is \n";
+    cout << result6 << " and this program took " << durationFunction << " milliseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 

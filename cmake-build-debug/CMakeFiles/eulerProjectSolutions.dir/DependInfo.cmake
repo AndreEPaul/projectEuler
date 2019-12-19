@@ -17,6 +17,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp" "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o"
   "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp" "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o"
   "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp" "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o"
+  "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.cpp" "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.o"
+  "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.cpp" "/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

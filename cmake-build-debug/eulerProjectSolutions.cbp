@@ -155,6 +155,18 @@
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

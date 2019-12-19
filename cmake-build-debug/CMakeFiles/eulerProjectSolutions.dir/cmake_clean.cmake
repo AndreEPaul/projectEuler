@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o"
   "CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o"
   "CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o"
+  "CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.o"
+  "CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.o"
   "eulerProjectSolutions.exe"
   "eulerProjectSolutions.pdb"
   "libeulerProjectSolutions.dll.a"

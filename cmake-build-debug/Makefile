@@ -474,6 +474,60 @@ problem5/multipleLcms.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s
 .PHONY : problem5/multipleLcms.cpp.s
 
+problem6/squareOfSum.o: problem6/squareOfSum.cpp.o
+
+.PHONY : problem6/squareOfSum.o
+
+# target to build an object file
+problem6/squareOfSum.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.o
+.PHONY : problem6/squareOfSum.cpp.o
+
+problem6/squareOfSum.i: problem6/squareOfSum.cpp.i
+
+.PHONY : problem6/squareOfSum.i
+
+# target to preprocess a source file
+problem6/squareOfSum.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.i
+.PHONY : problem6/squareOfSum.cpp.i
+
+problem6/squareOfSum.s: problem6/squareOfSum.cpp.s
+
+.PHONY : problem6/squareOfSum.s
+
+# target to generate assembly for a file
+problem6/squareOfSum.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.s
+.PHONY : problem6/squareOfSum.cpp.s
+
+problem6/sumOfSquares.o: problem6/sumOfSquares.cpp.o
+
+.PHONY : problem6/sumOfSquares.o
+
+# target to build an object file
+problem6/sumOfSquares.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.o
+.PHONY : problem6/sumOfSquares.cpp.o
+
+problem6/sumOfSquares.i: problem6/sumOfSquares.cpp.i
+
+.PHONY : problem6/sumOfSquares.i
+
+# target to preprocess a source file
+problem6/sumOfSquares.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.i
+.PHONY : problem6/sumOfSquares.cpp.i
+
+problem6/sumOfSquares.s: problem6/sumOfSquares.cpp.s
+
+.PHONY : problem6/sumOfSquares.s
+
+# target to generate assembly for a file
+problem6/sumOfSquares.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.s
+.PHONY : problem6/sumOfSquares.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -522,6 +576,12 @@ help:
 	@echo "... problem5/multipleLcms.o"
 	@echo "... problem5/multipleLcms.i"
 	@echo "... problem5/multipleLcms.s"
+	@echo "... problem6/squareOfSum.o"
+	@echo "... problem6/squareOfSum.i"
+	@echo "... problem6/squareOfSum.s"
+	@echo "... problem6/sumOfSquares.o"
+	@echo "... problem6/sumOfSquares.i"
+	@echo "... problem6/sumOfSquares.s"
 .PHONY : help
 
 

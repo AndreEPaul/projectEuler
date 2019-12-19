@@ -28,4 +28,8 @@ add_executable(eulerProjectSolutions
         problem5/multipleLcms.cpp
         problem5/multipleLcms.h
         problem5/gcdFunction.cpp
-        problem5/gcdFunction.h)
+        problem5/gcdFunction.h
+        problem6/sumOfSquares.cpp
+        problem6/sumOfSquares.h
+        problem6/squareOfSum.cpp
+        problem6/squareOfSum.h)

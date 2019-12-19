@@ -25,6 +25,10 @@ problem4/generatePalindromes.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h
 problem5/multipleLcms.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h
+problem6/squareOfSum.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.h
+problem6/sumOfSquares.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.h
 
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.h
 
@@ -73,4 +77,16 @@ vector
 -
 multipleLcms.cpp
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.h
+squareOfSum.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.h
+sumOfSquares.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.cpp
 

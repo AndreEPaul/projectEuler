@@ -14,6 +14,10 @@ CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/lcm.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/lcm.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/multipleLcms.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/multipleLcms.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem6/squareOfSum.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem6/squareOfSum.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem6/sumOfSquares.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem6/sumOfSquares.h
 
 CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.o: ../problem1/sumFunctionProb1.cpp
 
@@ -49,4 +53,8 @@ CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/gc
 CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/lcm.cpp
 CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/lcm.h
 CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/multipleLcms.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.o: ../problem6/squareOfSum.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.o: ../problem6/sumOfSquares.cpp
 
