@@ -187,6 +187,45 @@ CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s"
 	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.cpp -o CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s
 
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o: CMakeFiles/eulerProjectSolutions.dir/flags.make
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o: ../problem5/lcm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o -c /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp > CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.i
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp -o CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.s
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: CMakeFiles/eulerProjectSolutions.dir/flags.make
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/multipleLcms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o -c /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp > CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.i
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp -o CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o: CMakeFiles/eulerProjectSolutions.dir/flags.make
+CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o: ../problem5/gcdFunction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o -c /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp > CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.i
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp -o CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.s
+
 # Object files for target eulerProjectSolutions
 eulerProjectSolutions_OBJECTS = \
 "CMakeFiles/eulerProjectSolutions.dir/main.cpp.o" \
@@ -198,7 +237,10 @@ eulerProjectSolutions_OBJECTS = \
 "CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o" \
 "CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o" \
 "CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o" \
-"CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o"
+"CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o" \
+"CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o" \
+"CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o" \
+"CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o"
 
 # External object files for target eulerProjectSolutions
 eulerProjectSolutions_EXTERNAL_OBJECTS =
@@ -213,9 +255,12 @@ eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem3/pollard
 eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o
 eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o
 eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o
+eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o
+eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o
+eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o
 eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/build.make
 eulerProjectSolutions.exe: CMakeFiles/eulerProjectSolutions.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable eulerProjectSolutions.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable eulerProjectSolutions.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/eulerProjectSolutions.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

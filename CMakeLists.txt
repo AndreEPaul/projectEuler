@@ -20,4 +20,12 @@ add_executable(eulerProjectSolutions
         problem3/maxInVector.cpp
         problem3/maxInVector.h
         problem4/checkIfPalindrome.cpp
-        problem4/checkIfPalindrome.h problem4/generatePalindromes.cpp problem4/generatePalindromes.h)
+        problem4/checkIfPalindrome.h
+        problem4/generatePalindromes.cpp
+        problem4/generatePalindromes.h
+        problem5/lcm.cpp
+        problem5/lcm.h
+        problem5/multipleLcms.cpp
+        problem5/multipleLcms.h
+        problem5/gcdFunction.cpp
+        problem5/gcdFunction.h)

@@ -137,6 +137,24 @@
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

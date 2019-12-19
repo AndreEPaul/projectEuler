@@ -8,6 +8,12 @@ CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/factorLargeNumber.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/maxInVector.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/maxInVector.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem4/generatePalindromes.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/gcdFunction.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/gcdFunction.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/lcm.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/lcm.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/multipleLcms.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem5/multipleLcms.h
 
 CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.o: ../problem1/sumFunctionProb1.cpp
 
@@ -23,6 +29,7 @@ CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.o: ../problem3/gcd
 
 CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o: ../problem3/maxInVector.cpp
 
+CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o: ../problem3/gcdFunction.cpp
 CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o: ../problem3/gcdFunction.h
 CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o: ../problem3/pollardAlgo.cpp
 
@@ -30,4 +37,16 @@ CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o: ../proble
 
 CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o: ../problem4/checkIfPalindrome.h
 CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o: ../problem4/generatePalindromes.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o: ../problem5/gcdFunction.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o: ../problem5/gcdFunction.cpp
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o: ../problem5/gcdFunction.h
+CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o: ../problem5/lcm.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/gcdFunction.cpp
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/gcdFunction.h
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/lcm.cpp
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/lcm.h
+CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o: ../problem5/multipleLcms.cpp
 

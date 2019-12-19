@@ -393,6 +393,87 @@ problem4/generatePalindromes.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s
 .PHONY : problem4/generatePalindromes.cpp.s
 
+problem5/gcdFunction.o: problem5/gcdFunction.cpp.o
+
+.PHONY : problem5/gcdFunction.o
+
+# target to build an object file
+problem5/gcdFunction.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o
+.PHONY : problem5/gcdFunction.cpp.o
+
+problem5/gcdFunction.i: problem5/gcdFunction.cpp.i
+
+.PHONY : problem5/gcdFunction.i
+
+# target to preprocess a source file
+problem5/gcdFunction.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.i
+.PHONY : problem5/gcdFunction.cpp.i
+
+problem5/gcdFunction.s: problem5/gcdFunction.cpp.s
+
+.PHONY : problem5/gcdFunction.s
+
+# target to generate assembly for a file
+problem5/gcdFunction.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.s
+.PHONY : problem5/gcdFunction.cpp.s
+
+problem5/lcm.o: problem5/lcm.cpp.o
+
+.PHONY : problem5/lcm.o
+
+# target to build an object file
+problem5/lcm.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o
+.PHONY : problem5/lcm.cpp.o
+
+problem5/lcm.i: problem5/lcm.cpp.i
+
+.PHONY : problem5/lcm.i
+
+# target to preprocess a source file
+problem5/lcm.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.i
+.PHONY : problem5/lcm.cpp.i
+
+problem5/lcm.s: problem5/lcm.cpp.s
+
+.PHONY : problem5/lcm.s
+
+# target to generate assembly for a file
+problem5/lcm.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.s
+.PHONY : problem5/lcm.cpp.s
+
+problem5/multipleLcms.o: problem5/multipleLcms.cpp.o
+
+.PHONY : problem5/multipleLcms.o
+
+# target to build an object file
+problem5/multipleLcms.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o
+.PHONY : problem5/multipleLcms.cpp.o
+
+problem5/multipleLcms.i: problem5/multipleLcms.cpp.i
+
+.PHONY : problem5/multipleLcms.i
+
+# target to preprocess a source file
+problem5/multipleLcms.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.i
+.PHONY : problem5/multipleLcms.cpp.i
+
+problem5/multipleLcms.s: problem5/multipleLcms.cpp.s
+
+.PHONY : problem5/multipleLcms.s
+
+# target to generate assembly for a file
+problem5/multipleLcms.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s
+.PHONY : problem5/multipleLcms.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -432,6 +513,15 @@ help:
 	@echo "... problem4/generatePalindromes.o"
 	@echo "... problem4/generatePalindromes.i"
 	@echo "... problem4/generatePalindromes.s"
+	@echo "... problem5/gcdFunction.o"
+	@echo "... problem5/gcdFunction.i"
+	@echo "... problem5/gcdFunction.s"
+	@echo "... problem5/lcm.o"
+	@echo "... problem5/lcm.i"
+	@echo "... problem5/lcm.s"
+	@echo "... problem5/multipleLcms.o"
+	@echo "... problem5/multipleLcms.i"
+	@echo "... problem5/multipleLcms.s"
 .PHONY : help
 
 

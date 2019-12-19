@@ -10,6 +10,7 @@
 #include "problem3/factorLargeNumber.h"
 #include "problem3/maxInVector.h"
 #include "problem4/generatePalindromes.h"
+#include "problem5/multipleLcms.h"
 
 using std::cout;
 using std::endl;
@@ -81,6 +82,28 @@ int main()
     cout << "PROBLEM 4: The largest palindrome which is a product of \n";
     cout << "2 three-digit numbers is ";
     cout << result4 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << "to calculate this result. \n";
+    cout << "----------------------------------------" << endl;
+
+    /// Reassign times, call new function.
+    time1 = std::chrono::high_resolution_clock::now();
+
+    /// Vector list of 1-20 to find lcm of this list.
+    vector <unsigned long long> listProb5;
+    for(unsigned long long i = 1; i <= 20; i++)
+    {
+        listProb5.push_back(i);
+    }
+
+    /// Use multipleLcms to calculate lcm of the list.
+    unsigned long long result5 = multipleLcms(listProb5);
+
+    time2 = std::chrono::high_resolution_clock::now();
+    durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
+
+    cout << "----------------------------------------\n";
+    cout << "PROBLEM 5: The least common multiple of 1-20 is \n";
+    cout << result5 << " and this program took " << durationFunction << " milliseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 

@@ -23,6 +23,8 @@ problem3/maxInVector.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.h
 problem4/generatePalindromes.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h
+problem5/multipleLcms.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h
 
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.h
 
@@ -45,4 +47,30 @@ maxInVector.cpp
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h
 vector
 -
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.h
+gcdFunction.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp
+gcdFunction.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.h
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.h
+lcm.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp
+vector
+-
+lcm.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.h
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h
+vector
+-
+multipleLcms.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp
 
