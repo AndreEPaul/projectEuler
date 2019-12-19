@@ -9,6 +9,7 @@
 #include "problem2/fibFunctionProb2.h"
 #include "problem3/factorLargeNumber.h"
 #include "problem3/maxInVector.h"
+#include "problem4/generatePalindromes.h"
 
 using std::cout;
 using std::endl;
@@ -61,6 +62,25 @@ int main()
     cout << "----------------------------------------\n";
     cout << "PROBLEM 3: The largest prime factor of 600851475143 is\n";
     cout << result3 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << "to calculate this result. \n";
+    cout << "----------------------------------------" << endl;
+
+    /// Reassign times, call new function.
+    time1 = std::chrono::high_resolution_clock::now();
+
+    /// Create vector full of product palindromes from 100 to 999
+    vector <int> listOfPalindromes = generatePalindromes(100, 999);
+
+    /// Use same maxInVector function to find max here.
+    int result4 = maxInVector(listOfPalindromes);
+
+    time2 = std::chrono::high_resolution_clock::now();
+    durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
+
+    cout << "----------------------------------------\n";
+    cout << "PROBLEM 4: The largest palindrome which is a product of \n";
+    cout << "2 three-digit numbers is ";
+    cout << result4 << " and this program took " << durationFunction << " milliseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 

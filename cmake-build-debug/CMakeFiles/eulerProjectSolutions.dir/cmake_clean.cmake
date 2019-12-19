@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.o"
   "CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o"
   "CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o"
+  "CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o"
+  "CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o"
   "eulerProjectSolutions.exe"
   "eulerProjectSolutions.pdb"
   "libeulerProjectSolutions.dll.a"

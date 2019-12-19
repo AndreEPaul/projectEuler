@@ -8,6 +8,8 @@
 #include <vector>
 using std::vector;
 
-unsigned long long maxInVector(vector <unsigned long long>);
+template <typename T>
+T maxInVector(vector <T>);
 
+#include "maxInVector.cpp"
 #endif //EULERPROJECTSOLUTIONS_MAXINVECTOR_H

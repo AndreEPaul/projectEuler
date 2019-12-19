@@ -6,11 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/factorLargeNumber.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/main.cpp
+iostream
+-
+chrono
+-
 vector
 -
-pollardAlgo.h
-/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.h
+problem1/sumFunctionProb1.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.h
+problem2/fibFunctionProb2.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/fibFunctionProb2.h
+problem3/factorLargeNumber.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/factorLargeNumber.h
+problem3/maxInVector.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.h
+problem4/generatePalindromes.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h
 
-/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.h
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/fibFunctionProb2.h
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/factorLargeNumber.h
+vector
+-
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.cpp
+vector
+-
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.h
+vector
+-
+maxInVector.cpp
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.cpp
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h
+vector
+-
 

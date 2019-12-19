@@ -1,13 +1,14 @@
 //
 // Created by Andre on 12/18/2019.
-// finds the maximum value in unsigned long long vector
+// finds the maximum value in type vector
 
 #include <vector>
 using std::vector;
 
-unsigned long long maxInVector(vector <unsigned long long> vectorIn)
+template <typename T>
+T maxInVector(vector <T> vectorIn)
 {
-    unsigned long long maxValue = vectorIn.at(0);
+    T maxValue = vectorIn.at(0);
 
     for(unsigned i = 0; i < vectorIn.size(); i++)
     {

@@ -5,7 +5,9 @@ CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../main.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem1/sumFunctionProb1.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem2/fibFunctionProb2.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/factorLargeNumber.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/maxInVector.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem3/maxInVector.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problem4/generatePalindromes.h
 
 CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.o: ../problem1/sumFunctionProb1.cpp
 
@@ -23,4 +25,9 @@ CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o: ../problem3/max
 
 CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o: ../problem3/gcdFunction.h
 CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o: ../problem3/pollardAlgo.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o: ../problem4/checkIfPalindrome.cpp
+
+CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o: ../problem4/checkIfPalindrome.h
+CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o: ../problem4/generatePalindromes.cpp
 

@@ -125,6 +125,18 @@
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/checkIfPalindrome.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/checkIfPalindrome.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

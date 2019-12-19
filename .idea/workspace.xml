@@ -12,7 +12,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbe77072-4660-47c2-b4db-cf0ba7300f65" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem4/checkIfPalindrome.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem4/checkIfPalindrome.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem4/generatePalindromes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem4/generatePalindromes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/eulerProjectSolutions.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/eulerProjectSolutions.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/eulerProjectSolutions.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/eulerProjectSolutions.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/eulerProjectSolutions.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem3/maxInVector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/problem3/maxInVector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem3/maxInVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/problem3/maxInVector.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,22 +116,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576634912374" />
-    <state width="1493" height="305" key="GridCell.Tab.0.bottom" timestamp="1576696863912">
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom" timestamp="1576713464427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="305" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576696863912" />
-    <state width="1493" height="305" key="GridCell.Tab.0.center" timestamp="1576696863911">
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576713464427" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center" timestamp="1576713464427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="305" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576696863911" />
-    <state width="1493" height="305" key="GridCell.Tab.0.left" timestamp="1576696863911">
+    <state width="1493" height="383" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576713464427" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left" timestamp="1576713464427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="305" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576696863911" />
-    <state width="1493" height="305" key="GridCell.Tab.0.right" timestamp="1576696863911">
+    <state width="1493" height="383" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576713464427" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right" timestamp="1576713464427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="305" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576696863911" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576713464427" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1576696851617">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

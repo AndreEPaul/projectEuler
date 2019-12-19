@@ -339,6 +339,60 @@ problem3/pollardAlgo.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.s
 .PHONY : problem3/pollardAlgo.cpp.s
 
+problem4/checkIfPalindrome.o: problem4/checkIfPalindrome.cpp.o
+
+.PHONY : problem4/checkIfPalindrome.o
+
+# target to build an object file
+problem4/checkIfPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o
+.PHONY : problem4/checkIfPalindrome.cpp.o
+
+problem4/checkIfPalindrome.i: problem4/checkIfPalindrome.cpp.i
+
+.PHONY : problem4/checkIfPalindrome.i
+
+# target to preprocess a source file
+problem4/checkIfPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.i
+.PHONY : problem4/checkIfPalindrome.cpp.i
+
+problem4/checkIfPalindrome.s: problem4/checkIfPalindrome.cpp.s
+
+.PHONY : problem4/checkIfPalindrome.s
+
+# target to generate assembly for a file
+problem4/checkIfPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.s
+.PHONY : problem4/checkIfPalindrome.cpp.s
+
+problem4/generatePalindromes.o: problem4/generatePalindromes.cpp.o
+
+.PHONY : problem4/generatePalindromes.o
+
+# target to build an object file
+problem4/generatePalindromes.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o
+.PHONY : problem4/generatePalindromes.cpp.o
+
+problem4/generatePalindromes.i: problem4/generatePalindromes.cpp.i
+
+.PHONY : problem4/generatePalindromes.i
+
+# target to preprocess a source file
+problem4/generatePalindromes.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.i
+.PHONY : problem4/generatePalindromes.cpp.i
+
+problem4/generatePalindromes.s: problem4/generatePalindromes.cpp.s
+
+.PHONY : problem4/generatePalindromes.s
+
+# target to generate assembly for a file
+problem4/generatePalindromes.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s
+.PHONY : problem4/generatePalindromes.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -372,6 +426,12 @@ help:
 	@echo "... problem3/pollardAlgo.o"
 	@echo "... problem3/pollardAlgo.i"
 	@echo "... problem3/pollardAlgo.s"
+	@echo "... problem4/checkIfPalindrome.o"
+	@echo "... problem4/checkIfPalindrome.i"
+	@echo "... problem4/checkIfPalindrome.s"
+	@echo "... problem4/generatePalindromes.o"
+	@echo "... problem4/generatePalindromes.i"
+	@echo "... problem4/generatePalindromes.s"
 .PHONY : help
 
 
