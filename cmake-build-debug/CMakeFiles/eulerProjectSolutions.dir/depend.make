@@ -18,6 +18,8 @@ CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem6/square
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem6/squareOfSum.h
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem6/sumOfSquares.cpp
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem6/sumOfSquares.h
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem7/generateListOfPrimes.cpp
+CMakeFiles/eulerProjectSolutions.dir/main.cpp.o: ../problems1_10/problem7/generateListOfPrimes.h
 
 CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.o: ../problems1_10/problem1/sumFunctionProb1.cpp
 

@@ -13,6 +13,7 @@
 #include "problems1_10/problem5/multipleLcms.h"
 #include "problems1_10/problem6/squareOfSum.h"
 #include "problems1_10/problem6/sumOfSquares.h"
+#include "problems1_10/problem7/generateListOfPrimes.h"
 
 using std::cout;
 using std::endl;
@@ -31,7 +32,7 @@ int main()
 
     cout << "--------------------------------------\n";
     cout << "PROBLEM 1: The sum of all multiples of 3 and 5 from 0 to 1000 is \n";
-    cout << result1 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result1 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 
@@ -46,7 +47,7 @@ int main()
 
     cout << "----------------------------------------\n";
     cout << "PROBLEM 2: The sum of all even fibonacci numbers up through 4 million is\n";
-    cout << result2 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result2 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 
@@ -64,7 +65,7 @@ int main()
 
     cout << "----------------------------------------\n";
     cout << "PROBLEM 3: The largest prime factor of 600851475143 is\n";
-    cout << result3 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result3 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 
@@ -83,7 +84,7 @@ int main()
     cout << "----------------------------------------\n";
     cout << "PROBLEM 4: The largest palindrome which is a product of \n";
     cout << "2 three-digit numbers is ";
-    cout << result4 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result4 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 
@@ -105,7 +106,7 @@ int main()
 
     cout << "----------------------------------------\n";
     cout << "PROBLEM 5: The least common multiple of 1-20 is \n";
-    cout << result5 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result5 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 
@@ -122,7 +123,24 @@ int main()
     cout << "----------------------------------------\n";
     cout << "PROBLEM 6: The difference between the sum of squares \n";
     cout << "and the square of summation up through 100 is \n";
-    cout << result6 << " and this program took " << durationFunction << " milliseconds\n";
+    cout << result6 << " and this program took " << durationFunction << " microseconds\n";
+    cout << "to calculate this result. \n";
+    cout << "----------------------------------------" << endl;
+
+    /// Reassign times, call new function.
+    time1 = std::chrono::high_resolution_clock::now();
+
+    /// Pass integer limit.
+    unsigned long long desiredAmountPrimes = 10001;
+    vector <unsigned long long> listOfPrimes = generateListOfPrimes(desiredAmountPrimes);
+    unsigned long long result7 = listOfPrimes[desiredAmountPrimes - 1];
+
+    time2 = std::chrono::high_resolution_clock::now();
+    durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
+
+    cout << "----------------------------------------\n";
+    cout << "PROBLEM 7: The 10,001st prime number is \n";
+    cout << result7 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
 

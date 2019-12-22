@@ -9,7 +9,7 @@
 using std::vector;
 
 template <typename T>
-vector <T> generateListOfPrimes(int index)
+vector <T> generateListOfPrimes(T index)
 {
     vector <T> basis = {2, 3};
 
@@ -42,4 +42,6 @@ vector <T> generateListOfPrimes(int index)
         // No need to check even numbers.
         numToTest += 2;
     }
+
+    return basis;
 }

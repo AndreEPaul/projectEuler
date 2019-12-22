@@ -32,4 +32,6 @@ add_executable(eulerProjectSolutions
         problems1_10/problem6/sumOfSquares.cpp
         problems1_10/problem6/sumOfSquares.h
         problems1_10/problem6/squareOfSum.cpp
-        problems1_10/problem6/squareOfSum.h problems1_10/problem7/generateListOfPrimes.cpp problems1_10/problem7/generateListOfPrimes.h)
+        problems1_10/problem6/squareOfSum.h
+        problems1_10/problem7/generateListOfPrimes.cpp
+        problems1_10/problem7/generateListOfPrimes.h)

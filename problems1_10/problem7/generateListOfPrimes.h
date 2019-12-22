@@ -12,7 +12,7 @@
 using std::vector;
 
 template <typename T>
-vector <T> generateListOfPrimes(int);
+vector <T> generateListOfPrimes(T);
 
 #include "generateListOfPrimes.cpp"
 
