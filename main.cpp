@@ -5,14 +5,14 @@
 #include <iostream>
 #include <chrono>
 #include <vector>
-#include "problem1/sumFunctionProb1.h"
-#include "problem2/fibFunctionProb2.h"
-#include "problem3/factorLargeNumber.h"
-#include "problem3/maxInVector.h"
-#include "problem4/generatePalindromes.h"
-#include "problem5/multipleLcms.h"
-#include "problem6/squareOfSum.h"
-#include "problem6/sumOfSquares.h"
+#include "problems1_10/problem1/sumFunctionProb1.h"
+#include "problems1_10/problem2/fibFunctionProb2.h"
+#include "problems1_10/problem3/factorLargeNumber.h"
+#include "problems1_10/problem3/maxInVector.h"
+#include "problems1_10/problem4/generatePalindromes.h"
+#include "problems1_10/problem5/multipleLcms.h"
+#include "problems1_10/problem6/squareOfSum.h"
+#include "problems1_10/problem6/sumOfSquares.h"
 
 using std::cout;
 using std::endl;

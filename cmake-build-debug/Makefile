@@ -150,383 +150,410 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-problem1/sumFunctionProb1.o: problem1/sumFunctionProb1.cpp.o
+problems1_10/problem1/sumFunctionProb1.o: problems1_10/problem1/sumFunctionProb1.cpp.o
 
-.PHONY : problem1/sumFunctionProb1.o
-
-# target to build an object file
-problem1/sumFunctionProb1.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.o
-.PHONY : problem1/sumFunctionProb1.cpp.o
-
-problem1/sumFunctionProb1.i: problem1/sumFunctionProb1.cpp.i
-
-.PHONY : problem1/sumFunctionProb1.i
-
-# target to preprocess a source file
-problem1/sumFunctionProb1.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.i
-.PHONY : problem1/sumFunctionProb1.cpp.i
-
-problem1/sumFunctionProb1.s: problem1/sumFunctionProb1.cpp.s
-
-.PHONY : problem1/sumFunctionProb1.s
-
-# target to generate assembly for a file
-problem1/sumFunctionProb1.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem1/sumFunctionProb1.cpp.s
-.PHONY : problem1/sumFunctionProb1.cpp.s
-
-problem2/fibFunctionProb2.o: problem2/fibFunctionProb2.cpp.o
-
-.PHONY : problem2/fibFunctionProb2.o
+.PHONY : problems1_10/problem1/sumFunctionProb1.o
 
 # target to build an object file
-problem2/fibFunctionProb2.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/fibFunctionProb2.cpp.o
-.PHONY : problem2/fibFunctionProb2.cpp.o
+problems1_10/problem1/sumFunctionProb1.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.o
+.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.o
 
-problem2/fibFunctionProb2.i: problem2/fibFunctionProb2.cpp.i
+problems1_10/problem1/sumFunctionProb1.i: problems1_10/problem1/sumFunctionProb1.cpp.i
 
-.PHONY : problem2/fibFunctionProb2.i
+.PHONY : problems1_10/problem1/sumFunctionProb1.i
 
 # target to preprocess a source file
-problem2/fibFunctionProb2.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/fibFunctionProb2.cpp.i
-.PHONY : problem2/fibFunctionProb2.cpp.i
+problems1_10/problem1/sumFunctionProb1.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.i
+.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.i
 
-problem2/fibFunctionProb2.s: problem2/fibFunctionProb2.cpp.s
+problems1_10/problem1/sumFunctionProb1.s: problems1_10/problem1/sumFunctionProb1.cpp.s
 
-.PHONY : problem2/fibFunctionProb2.s
+.PHONY : problems1_10/problem1/sumFunctionProb1.s
 
 # target to generate assembly for a file
-problem2/fibFunctionProb2.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/fibFunctionProb2.cpp.s
-.PHONY : problem2/fibFunctionProb2.cpp.s
+problems1_10/problem1/sumFunctionProb1.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.s
+.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.s
 
-problem2/iterativeFib.o: problem2/iterativeFib.cpp.o
+problems1_10/problem2/fibFunctionProb2.o: problems1_10/problem2/fibFunctionProb2.cpp.o
 
-.PHONY : problem2/iterativeFib.o
+.PHONY : problems1_10/problem2/fibFunctionProb2.o
 
 # target to build an object file
-problem2/iterativeFib.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/iterativeFib.cpp.o
-.PHONY : problem2/iterativeFib.cpp.o
+problems1_10/problem2/fibFunctionProb2.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/fibFunctionProb2.cpp.o
+.PHONY : problems1_10/problem2/fibFunctionProb2.cpp.o
 
-problem2/iterativeFib.i: problem2/iterativeFib.cpp.i
+problems1_10/problem2/fibFunctionProb2.i: problems1_10/problem2/fibFunctionProb2.cpp.i
 
-.PHONY : problem2/iterativeFib.i
+.PHONY : problems1_10/problem2/fibFunctionProb2.i
 
 # target to preprocess a source file
-problem2/iterativeFib.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/iterativeFib.cpp.i
-.PHONY : problem2/iterativeFib.cpp.i
+problems1_10/problem2/fibFunctionProb2.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/fibFunctionProb2.cpp.i
+.PHONY : problems1_10/problem2/fibFunctionProb2.cpp.i
 
-problem2/iterativeFib.s: problem2/iterativeFib.cpp.s
+problems1_10/problem2/fibFunctionProb2.s: problems1_10/problem2/fibFunctionProb2.cpp.s
 
-.PHONY : problem2/iterativeFib.s
+.PHONY : problems1_10/problem2/fibFunctionProb2.s
 
 # target to generate assembly for a file
-problem2/iterativeFib.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem2/iterativeFib.cpp.s
-.PHONY : problem2/iterativeFib.cpp.s
+problems1_10/problem2/fibFunctionProb2.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/fibFunctionProb2.cpp.s
+.PHONY : problems1_10/problem2/fibFunctionProb2.cpp.s
 
-problem3/factorLargeNumber.o: problem3/factorLargeNumber.cpp.o
+problems1_10/problem2/iterativeFib.o: problems1_10/problem2/iterativeFib.cpp.o
 
-.PHONY : problem3/factorLargeNumber.o
+.PHONY : problems1_10/problem2/iterativeFib.o
 
 # target to build an object file
-problem3/factorLargeNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/factorLargeNumber.cpp.o
-.PHONY : problem3/factorLargeNumber.cpp.o
+problems1_10/problem2/iterativeFib.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/iterativeFib.cpp.o
+.PHONY : problems1_10/problem2/iterativeFib.cpp.o
 
-problem3/factorLargeNumber.i: problem3/factorLargeNumber.cpp.i
+problems1_10/problem2/iterativeFib.i: problems1_10/problem2/iterativeFib.cpp.i
 
-.PHONY : problem3/factorLargeNumber.i
+.PHONY : problems1_10/problem2/iterativeFib.i
 
 # target to preprocess a source file
-problem3/factorLargeNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/factorLargeNumber.cpp.i
-.PHONY : problem3/factorLargeNumber.cpp.i
+problems1_10/problem2/iterativeFib.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/iterativeFib.cpp.i
+.PHONY : problems1_10/problem2/iterativeFib.cpp.i
 
-problem3/factorLargeNumber.s: problem3/factorLargeNumber.cpp.s
+problems1_10/problem2/iterativeFib.s: problems1_10/problem2/iterativeFib.cpp.s
 
-.PHONY : problem3/factorLargeNumber.s
+.PHONY : problems1_10/problem2/iterativeFib.s
 
 # target to generate assembly for a file
-problem3/factorLargeNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/factorLargeNumber.cpp.s
-.PHONY : problem3/factorLargeNumber.cpp.s
+problems1_10/problem2/iterativeFib.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/iterativeFib.cpp.s
+.PHONY : problems1_10/problem2/iterativeFib.cpp.s
 
-problem3/gcdFunction.o: problem3/gcdFunction.cpp.o
+problems1_10/problem3/factorLargeNumber.o: problems1_10/problem3/factorLargeNumber.cpp.o
 
-.PHONY : problem3/gcdFunction.o
+.PHONY : problems1_10/problem3/factorLargeNumber.o
 
 # target to build an object file
-problem3/gcdFunction.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.o
-.PHONY : problem3/gcdFunction.cpp.o
+problems1_10/problem3/factorLargeNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/factorLargeNumber.cpp.o
+.PHONY : problems1_10/problem3/factorLargeNumber.cpp.o
 
-problem3/gcdFunction.i: problem3/gcdFunction.cpp.i
+problems1_10/problem3/factorLargeNumber.i: problems1_10/problem3/factorLargeNumber.cpp.i
 
-.PHONY : problem3/gcdFunction.i
+.PHONY : problems1_10/problem3/factorLargeNumber.i
 
 # target to preprocess a source file
-problem3/gcdFunction.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.i
-.PHONY : problem3/gcdFunction.cpp.i
+problems1_10/problem3/factorLargeNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/factorLargeNumber.cpp.i
+.PHONY : problems1_10/problem3/factorLargeNumber.cpp.i
 
-problem3/gcdFunction.s: problem3/gcdFunction.cpp.s
+problems1_10/problem3/factorLargeNumber.s: problems1_10/problem3/factorLargeNumber.cpp.s
 
-.PHONY : problem3/gcdFunction.s
+.PHONY : problems1_10/problem3/factorLargeNumber.s
 
 # target to generate assembly for a file
-problem3/gcdFunction.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/gcdFunction.cpp.s
-.PHONY : problem3/gcdFunction.cpp.s
+problems1_10/problem3/factorLargeNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/factorLargeNumber.cpp.s
+.PHONY : problems1_10/problem3/factorLargeNumber.cpp.s
 
-problem3/maxInVector.o: problem3/maxInVector.cpp.o
+problems1_10/problem3/gcdFunction.o: problems1_10/problem3/gcdFunction.cpp.o
 
-.PHONY : problem3/maxInVector.o
+.PHONY : problems1_10/problem3/gcdFunction.o
 
 # target to build an object file
-problem3/maxInVector.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.o
-.PHONY : problem3/maxInVector.cpp.o
+problems1_10/problem3/gcdFunction.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/gcdFunction.cpp.o
+.PHONY : problems1_10/problem3/gcdFunction.cpp.o
 
-problem3/maxInVector.i: problem3/maxInVector.cpp.i
+problems1_10/problem3/gcdFunction.i: problems1_10/problem3/gcdFunction.cpp.i
 
-.PHONY : problem3/maxInVector.i
+.PHONY : problems1_10/problem3/gcdFunction.i
 
 # target to preprocess a source file
-problem3/maxInVector.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.i
-.PHONY : problem3/maxInVector.cpp.i
+problems1_10/problem3/gcdFunction.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/gcdFunction.cpp.i
+.PHONY : problems1_10/problem3/gcdFunction.cpp.i
 
-problem3/maxInVector.s: problem3/maxInVector.cpp.s
+problems1_10/problem3/gcdFunction.s: problems1_10/problem3/gcdFunction.cpp.s
 
-.PHONY : problem3/maxInVector.s
+.PHONY : problems1_10/problem3/gcdFunction.s
 
 # target to generate assembly for a file
-problem3/maxInVector.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/maxInVector.cpp.s
-.PHONY : problem3/maxInVector.cpp.s
+problems1_10/problem3/gcdFunction.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/gcdFunction.cpp.s
+.PHONY : problems1_10/problem3/gcdFunction.cpp.s
 
-problem3/pollardAlgo.o: problem3/pollardAlgo.cpp.o
+problems1_10/problem3/maxInVector.o: problems1_10/problem3/maxInVector.cpp.o
 
-.PHONY : problem3/pollardAlgo.o
+.PHONY : problems1_10/problem3/maxInVector.o
 
 # target to build an object file
-problem3/pollardAlgo.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.o
-.PHONY : problem3/pollardAlgo.cpp.o
+problems1_10/problem3/maxInVector.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/maxInVector.cpp.o
+.PHONY : problems1_10/problem3/maxInVector.cpp.o
 
-problem3/pollardAlgo.i: problem3/pollardAlgo.cpp.i
+problems1_10/problem3/maxInVector.i: problems1_10/problem3/maxInVector.cpp.i
 
-.PHONY : problem3/pollardAlgo.i
+.PHONY : problems1_10/problem3/maxInVector.i
 
 # target to preprocess a source file
-problem3/pollardAlgo.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.i
-.PHONY : problem3/pollardAlgo.cpp.i
+problems1_10/problem3/maxInVector.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/maxInVector.cpp.i
+.PHONY : problems1_10/problem3/maxInVector.cpp.i
 
-problem3/pollardAlgo.s: problem3/pollardAlgo.cpp.s
+problems1_10/problem3/maxInVector.s: problems1_10/problem3/maxInVector.cpp.s
 
-.PHONY : problem3/pollardAlgo.s
+.PHONY : problems1_10/problem3/maxInVector.s
 
 # target to generate assembly for a file
-problem3/pollardAlgo.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem3/pollardAlgo.cpp.s
-.PHONY : problem3/pollardAlgo.cpp.s
+problems1_10/problem3/maxInVector.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/maxInVector.cpp.s
+.PHONY : problems1_10/problem3/maxInVector.cpp.s
 
-problem4/checkIfPalindrome.o: problem4/checkIfPalindrome.cpp.o
+problems1_10/problem3/pollardAlgo.o: problems1_10/problem3/pollardAlgo.cpp.o
 
-.PHONY : problem4/checkIfPalindrome.o
+.PHONY : problems1_10/problem3/pollardAlgo.o
 
 # target to build an object file
-problem4/checkIfPalindrome.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.o
-.PHONY : problem4/checkIfPalindrome.cpp.o
+problems1_10/problem3/pollardAlgo.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/pollardAlgo.cpp.o
+.PHONY : problems1_10/problem3/pollardAlgo.cpp.o
 
-problem4/checkIfPalindrome.i: problem4/checkIfPalindrome.cpp.i
+problems1_10/problem3/pollardAlgo.i: problems1_10/problem3/pollardAlgo.cpp.i
 
-.PHONY : problem4/checkIfPalindrome.i
+.PHONY : problems1_10/problem3/pollardAlgo.i
 
 # target to preprocess a source file
-problem4/checkIfPalindrome.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.i
-.PHONY : problem4/checkIfPalindrome.cpp.i
+problems1_10/problem3/pollardAlgo.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/pollardAlgo.cpp.i
+.PHONY : problems1_10/problem3/pollardAlgo.cpp.i
 
-problem4/checkIfPalindrome.s: problem4/checkIfPalindrome.cpp.s
+problems1_10/problem3/pollardAlgo.s: problems1_10/problem3/pollardAlgo.cpp.s
 
-.PHONY : problem4/checkIfPalindrome.s
+.PHONY : problems1_10/problem3/pollardAlgo.s
 
 # target to generate assembly for a file
-problem4/checkIfPalindrome.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/checkIfPalindrome.cpp.s
-.PHONY : problem4/checkIfPalindrome.cpp.s
+problems1_10/problem3/pollardAlgo.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem3/pollardAlgo.cpp.s
+.PHONY : problems1_10/problem3/pollardAlgo.cpp.s
 
-problem4/generatePalindromes.o: problem4/generatePalindromes.cpp.o
+problems1_10/problem4/checkIfPalindrome.o: problems1_10/problem4/checkIfPalindrome.cpp.o
 
-.PHONY : problem4/generatePalindromes.o
+.PHONY : problems1_10/problem4/checkIfPalindrome.o
 
 # target to build an object file
-problem4/generatePalindromes.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.o
-.PHONY : problem4/generatePalindromes.cpp.o
+problems1_10/problem4/checkIfPalindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/checkIfPalindrome.cpp.o
+.PHONY : problems1_10/problem4/checkIfPalindrome.cpp.o
 
-problem4/generatePalindromes.i: problem4/generatePalindromes.cpp.i
+problems1_10/problem4/checkIfPalindrome.i: problems1_10/problem4/checkIfPalindrome.cpp.i
 
-.PHONY : problem4/generatePalindromes.i
+.PHONY : problems1_10/problem4/checkIfPalindrome.i
 
 # target to preprocess a source file
-problem4/generatePalindromes.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.i
-.PHONY : problem4/generatePalindromes.cpp.i
+problems1_10/problem4/checkIfPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/checkIfPalindrome.cpp.i
+.PHONY : problems1_10/problem4/checkIfPalindrome.cpp.i
 
-problem4/generatePalindromes.s: problem4/generatePalindromes.cpp.s
+problems1_10/problem4/checkIfPalindrome.s: problems1_10/problem4/checkIfPalindrome.cpp.s
 
-.PHONY : problem4/generatePalindromes.s
+.PHONY : problems1_10/problem4/checkIfPalindrome.s
 
 # target to generate assembly for a file
-problem4/generatePalindromes.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem4/generatePalindromes.cpp.s
-.PHONY : problem4/generatePalindromes.cpp.s
+problems1_10/problem4/checkIfPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/checkIfPalindrome.cpp.s
+.PHONY : problems1_10/problem4/checkIfPalindrome.cpp.s
 
-problem5/gcdFunction.o: problem5/gcdFunction.cpp.o
+problems1_10/problem4/generatePalindromes.o: problems1_10/problem4/generatePalindromes.cpp.o
 
-.PHONY : problem5/gcdFunction.o
+.PHONY : problems1_10/problem4/generatePalindromes.o
 
 # target to build an object file
-problem5/gcdFunction.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.o
-.PHONY : problem5/gcdFunction.cpp.o
+problems1_10/problem4/generatePalindromes.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/generatePalindromes.cpp.o
+.PHONY : problems1_10/problem4/generatePalindromes.cpp.o
 
-problem5/gcdFunction.i: problem5/gcdFunction.cpp.i
+problems1_10/problem4/generatePalindromes.i: problems1_10/problem4/generatePalindromes.cpp.i
 
-.PHONY : problem5/gcdFunction.i
+.PHONY : problems1_10/problem4/generatePalindromes.i
 
 # target to preprocess a source file
-problem5/gcdFunction.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.i
-.PHONY : problem5/gcdFunction.cpp.i
+problems1_10/problem4/generatePalindromes.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/generatePalindromes.cpp.i
+.PHONY : problems1_10/problem4/generatePalindromes.cpp.i
 
-problem5/gcdFunction.s: problem5/gcdFunction.cpp.s
+problems1_10/problem4/generatePalindromes.s: problems1_10/problem4/generatePalindromes.cpp.s
 
-.PHONY : problem5/gcdFunction.s
+.PHONY : problems1_10/problem4/generatePalindromes.s
 
 # target to generate assembly for a file
-problem5/gcdFunction.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/gcdFunction.cpp.s
-.PHONY : problem5/gcdFunction.cpp.s
+problems1_10/problem4/generatePalindromes.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem4/generatePalindromes.cpp.s
+.PHONY : problems1_10/problem4/generatePalindromes.cpp.s
 
-problem5/lcm.o: problem5/lcm.cpp.o
+problems1_10/problem5/gcdFunction.o: problems1_10/problem5/gcdFunction.cpp.o
 
-.PHONY : problem5/lcm.o
+.PHONY : problems1_10/problem5/gcdFunction.o
 
 # target to build an object file
-problem5/lcm.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.o
-.PHONY : problem5/lcm.cpp.o
+problems1_10/problem5/gcdFunction.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/gcdFunction.cpp.o
+.PHONY : problems1_10/problem5/gcdFunction.cpp.o
 
-problem5/lcm.i: problem5/lcm.cpp.i
+problems1_10/problem5/gcdFunction.i: problems1_10/problem5/gcdFunction.cpp.i
 
-.PHONY : problem5/lcm.i
+.PHONY : problems1_10/problem5/gcdFunction.i
 
 # target to preprocess a source file
-problem5/lcm.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.i
-.PHONY : problem5/lcm.cpp.i
+problems1_10/problem5/gcdFunction.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/gcdFunction.cpp.i
+.PHONY : problems1_10/problem5/gcdFunction.cpp.i
 
-problem5/lcm.s: problem5/lcm.cpp.s
+problems1_10/problem5/gcdFunction.s: problems1_10/problem5/gcdFunction.cpp.s
 
-.PHONY : problem5/lcm.s
+.PHONY : problems1_10/problem5/gcdFunction.s
 
 # target to generate assembly for a file
-problem5/lcm.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/lcm.cpp.s
-.PHONY : problem5/lcm.cpp.s
+problems1_10/problem5/gcdFunction.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/gcdFunction.cpp.s
+.PHONY : problems1_10/problem5/gcdFunction.cpp.s
 
-problem5/multipleLcms.o: problem5/multipleLcms.cpp.o
+problems1_10/problem5/lcm.o: problems1_10/problem5/lcm.cpp.o
 
-.PHONY : problem5/multipleLcms.o
+.PHONY : problems1_10/problem5/lcm.o
 
 # target to build an object file
-problem5/multipleLcms.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.o
-.PHONY : problem5/multipleLcms.cpp.o
+problems1_10/problem5/lcm.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/lcm.cpp.o
+.PHONY : problems1_10/problem5/lcm.cpp.o
 
-problem5/multipleLcms.i: problem5/multipleLcms.cpp.i
+problems1_10/problem5/lcm.i: problems1_10/problem5/lcm.cpp.i
 
-.PHONY : problem5/multipleLcms.i
+.PHONY : problems1_10/problem5/lcm.i
 
 # target to preprocess a source file
-problem5/multipleLcms.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.i
-.PHONY : problem5/multipleLcms.cpp.i
+problems1_10/problem5/lcm.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/lcm.cpp.i
+.PHONY : problems1_10/problem5/lcm.cpp.i
 
-problem5/multipleLcms.s: problem5/multipleLcms.cpp.s
+problems1_10/problem5/lcm.s: problems1_10/problem5/lcm.cpp.s
 
-.PHONY : problem5/multipleLcms.s
+.PHONY : problems1_10/problem5/lcm.s
 
 # target to generate assembly for a file
-problem5/multipleLcms.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem5/multipleLcms.cpp.s
-.PHONY : problem5/multipleLcms.cpp.s
+problems1_10/problem5/lcm.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/lcm.cpp.s
+.PHONY : problems1_10/problem5/lcm.cpp.s
 
-problem6/squareOfSum.o: problem6/squareOfSum.cpp.o
+problems1_10/problem5/multipleLcms.o: problems1_10/problem5/multipleLcms.cpp.o
 
-.PHONY : problem6/squareOfSum.o
+.PHONY : problems1_10/problem5/multipleLcms.o
 
 # target to build an object file
-problem6/squareOfSum.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.o
-.PHONY : problem6/squareOfSum.cpp.o
+problems1_10/problem5/multipleLcms.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/multipleLcms.cpp.o
+.PHONY : problems1_10/problem5/multipleLcms.cpp.o
 
-problem6/squareOfSum.i: problem6/squareOfSum.cpp.i
+problems1_10/problem5/multipleLcms.i: problems1_10/problem5/multipleLcms.cpp.i
 
-.PHONY : problem6/squareOfSum.i
+.PHONY : problems1_10/problem5/multipleLcms.i
 
 # target to preprocess a source file
-problem6/squareOfSum.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.i
-.PHONY : problem6/squareOfSum.cpp.i
+problems1_10/problem5/multipleLcms.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/multipleLcms.cpp.i
+.PHONY : problems1_10/problem5/multipleLcms.cpp.i
 
-problem6/squareOfSum.s: problem6/squareOfSum.cpp.s
+problems1_10/problem5/multipleLcms.s: problems1_10/problem5/multipleLcms.cpp.s
 
-.PHONY : problem6/squareOfSum.s
+.PHONY : problems1_10/problem5/multipleLcms.s
 
 # target to generate assembly for a file
-problem6/squareOfSum.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/squareOfSum.cpp.s
-.PHONY : problem6/squareOfSum.cpp.s
+problems1_10/problem5/multipleLcms.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem5/multipleLcms.cpp.s
+.PHONY : problems1_10/problem5/multipleLcms.cpp.s
 
-problem6/sumOfSquares.o: problem6/sumOfSquares.cpp.o
+problems1_10/problem6/squareOfSum.o: problems1_10/problem6/squareOfSum.cpp.o
 
-.PHONY : problem6/sumOfSquares.o
+.PHONY : problems1_10/problem6/squareOfSum.o
 
 # target to build an object file
-problem6/sumOfSquares.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.o
-.PHONY : problem6/sumOfSquares.cpp.o
+problems1_10/problem6/squareOfSum.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/squareOfSum.cpp.o
+.PHONY : problems1_10/problem6/squareOfSum.cpp.o
 
-problem6/sumOfSquares.i: problem6/sumOfSquares.cpp.i
+problems1_10/problem6/squareOfSum.i: problems1_10/problem6/squareOfSum.cpp.i
 
-.PHONY : problem6/sumOfSquares.i
+.PHONY : problems1_10/problem6/squareOfSum.i
 
 # target to preprocess a source file
-problem6/sumOfSquares.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.i
-.PHONY : problem6/sumOfSquares.cpp.i
+problems1_10/problem6/squareOfSum.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/squareOfSum.cpp.i
+.PHONY : problems1_10/problem6/squareOfSum.cpp.i
 
-problem6/sumOfSquares.s: problem6/sumOfSquares.cpp.s
+problems1_10/problem6/squareOfSum.s: problems1_10/problem6/squareOfSum.cpp.s
 
-.PHONY : problem6/sumOfSquares.s
+.PHONY : problems1_10/problem6/squareOfSum.s
 
 # target to generate assembly for a file
-problem6/sumOfSquares.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problem6/sumOfSquares.cpp.s
-.PHONY : problem6/sumOfSquares.cpp.s
+problems1_10/problem6/squareOfSum.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/squareOfSum.cpp.s
+.PHONY : problems1_10/problem6/squareOfSum.cpp.s
+
+problems1_10/problem6/sumOfSquares.o: problems1_10/problem6/sumOfSquares.cpp.o
+
+.PHONY : problems1_10/problem6/sumOfSquares.o
+
+# target to build an object file
+problems1_10/problem6/sumOfSquares.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/sumOfSquares.cpp.o
+.PHONY : problems1_10/problem6/sumOfSquares.cpp.o
+
+problems1_10/problem6/sumOfSquares.i: problems1_10/problem6/sumOfSquares.cpp.i
+
+.PHONY : problems1_10/problem6/sumOfSquares.i
+
+# target to preprocess a source file
+problems1_10/problem6/sumOfSquares.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/sumOfSquares.cpp.i
+.PHONY : problems1_10/problem6/sumOfSquares.cpp.i
+
+problems1_10/problem6/sumOfSquares.s: problems1_10/problem6/sumOfSquares.cpp.s
+
+.PHONY : problems1_10/problem6/sumOfSquares.s
+
+# target to generate assembly for a file
+problems1_10/problem6/sumOfSquares.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem6/sumOfSquares.cpp.s
+.PHONY : problems1_10/problem6/sumOfSquares.cpp.s
+
+problems1_10/problem7/generateListOfPrimes.o: problems1_10/problem7/generateListOfPrimes.cpp.o
+
+.PHONY : problems1_10/problem7/generateListOfPrimes.o
+
+# target to build an object file
+problems1_10/problem7/generateListOfPrimes.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem7/generateListOfPrimes.cpp.o
+.PHONY : problems1_10/problem7/generateListOfPrimes.cpp.o
+
+problems1_10/problem7/generateListOfPrimes.i: problems1_10/problem7/generateListOfPrimes.cpp.i
+
+.PHONY : problems1_10/problem7/generateListOfPrimes.i
+
+# target to preprocess a source file
+problems1_10/problem7/generateListOfPrimes.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem7/generateListOfPrimes.cpp.i
+.PHONY : problems1_10/problem7/generateListOfPrimes.cpp.i
+
+problems1_10/problem7/generateListOfPrimes.s: problems1_10/problem7/generateListOfPrimes.cpp.s
+
+.PHONY : problems1_10/problem7/generateListOfPrimes.s
+
+# target to generate assembly for a file
+problems1_10/problem7/generateListOfPrimes.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem7/generateListOfPrimes.cpp.s
+.PHONY : problems1_10/problem7/generateListOfPrimes.cpp.s
 
 # Help Target
 help:
@@ -540,48 +567,51 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... problem1/sumFunctionProb1.o"
-	@echo "... problem1/sumFunctionProb1.i"
-	@echo "... problem1/sumFunctionProb1.s"
-	@echo "... problem2/fibFunctionProb2.o"
-	@echo "... problem2/fibFunctionProb2.i"
-	@echo "... problem2/fibFunctionProb2.s"
-	@echo "... problem2/iterativeFib.o"
-	@echo "... problem2/iterativeFib.i"
-	@echo "... problem2/iterativeFib.s"
-	@echo "... problem3/factorLargeNumber.o"
-	@echo "... problem3/factorLargeNumber.i"
-	@echo "... problem3/factorLargeNumber.s"
-	@echo "... problem3/gcdFunction.o"
-	@echo "... problem3/gcdFunction.i"
-	@echo "... problem3/gcdFunction.s"
-	@echo "... problem3/maxInVector.o"
-	@echo "... problem3/maxInVector.i"
-	@echo "... problem3/maxInVector.s"
-	@echo "... problem3/pollardAlgo.o"
-	@echo "... problem3/pollardAlgo.i"
-	@echo "... problem3/pollardAlgo.s"
-	@echo "... problem4/checkIfPalindrome.o"
-	@echo "... problem4/checkIfPalindrome.i"
-	@echo "... problem4/checkIfPalindrome.s"
-	@echo "... problem4/generatePalindromes.o"
-	@echo "... problem4/generatePalindromes.i"
-	@echo "... problem4/generatePalindromes.s"
-	@echo "... problem5/gcdFunction.o"
-	@echo "... problem5/gcdFunction.i"
-	@echo "... problem5/gcdFunction.s"
-	@echo "... problem5/lcm.o"
-	@echo "... problem5/lcm.i"
-	@echo "... problem5/lcm.s"
-	@echo "... problem5/multipleLcms.o"
-	@echo "... problem5/multipleLcms.i"
-	@echo "... problem5/multipleLcms.s"
-	@echo "... problem6/squareOfSum.o"
-	@echo "... problem6/squareOfSum.i"
-	@echo "... problem6/squareOfSum.s"
-	@echo "... problem6/sumOfSquares.o"
-	@echo "... problem6/sumOfSquares.i"
-	@echo "... problem6/sumOfSquares.s"
+	@echo "... problems1_10/problem1/sumFunctionProb1.o"
+	@echo "... problems1_10/problem1/sumFunctionProb1.i"
+	@echo "... problems1_10/problem1/sumFunctionProb1.s"
+	@echo "... problems1_10/problem2/fibFunctionProb2.o"
+	@echo "... problems1_10/problem2/fibFunctionProb2.i"
+	@echo "... problems1_10/problem2/fibFunctionProb2.s"
+	@echo "... problems1_10/problem2/iterativeFib.o"
+	@echo "... problems1_10/problem2/iterativeFib.i"
+	@echo "... problems1_10/problem2/iterativeFib.s"
+	@echo "... problems1_10/problem3/factorLargeNumber.o"
+	@echo "... problems1_10/problem3/factorLargeNumber.i"
+	@echo "... problems1_10/problem3/factorLargeNumber.s"
+	@echo "... problems1_10/problem3/gcdFunction.o"
+	@echo "... problems1_10/problem3/gcdFunction.i"
+	@echo "... problems1_10/problem3/gcdFunction.s"
+	@echo "... problems1_10/problem3/maxInVector.o"
+	@echo "... problems1_10/problem3/maxInVector.i"
+	@echo "... problems1_10/problem3/maxInVector.s"
+	@echo "... problems1_10/problem3/pollardAlgo.o"
+	@echo "... problems1_10/problem3/pollardAlgo.i"
+	@echo "... problems1_10/problem3/pollardAlgo.s"
+	@echo "... problems1_10/problem4/checkIfPalindrome.o"
+	@echo "... problems1_10/problem4/checkIfPalindrome.i"
+	@echo "... problems1_10/problem4/checkIfPalindrome.s"
+	@echo "... problems1_10/problem4/generatePalindromes.o"
+	@echo "... problems1_10/problem4/generatePalindromes.i"
+	@echo "... problems1_10/problem4/generatePalindromes.s"
+	@echo "... problems1_10/problem5/gcdFunction.o"
+	@echo "... problems1_10/problem5/gcdFunction.i"
+	@echo "... problems1_10/problem5/gcdFunction.s"
+	@echo "... problems1_10/problem5/lcm.o"
+	@echo "... problems1_10/problem5/lcm.i"
+	@echo "... problems1_10/problem5/lcm.s"
+	@echo "... problems1_10/problem5/multipleLcms.o"
+	@echo "... problems1_10/problem5/multipleLcms.i"
+	@echo "... problems1_10/problem5/multipleLcms.s"
+	@echo "... problems1_10/problem6/squareOfSum.o"
+	@echo "... problems1_10/problem6/squareOfSum.i"
+	@echo "... problems1_10/problem6/squareOfSum.s"
+	@echo "... problems1_10/problem6/sumOfSquares.o"
+	@echo "... problems1_10/problem6/sumOfSquares.i"
+	@echo "... problems1_10/problem6/sumOfSquares.s"
+	@echo "... problems1_10/problem7/generateListOfPrimes.o"
+	@echo "... problems1_10/problem7/generateListOfPrimes.i"
+	@echo "... problems1_10/problem7/generateListOfPrimes.s"
 .PHONY : help
 
 

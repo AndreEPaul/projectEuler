@@ -83,88 +83,94 @@
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/main.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem1/sumFunctionProb1.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/fibFunctionProb2.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/fibFunctionProb2.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/iterativeFib.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/iterativeFib.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem2/iterativeFib.hpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/iterativeFib.hpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/factorLargeNumber.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/factorLargeNumber.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/factorLargeNumber.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/factorLargeNumber.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/gcdFunction.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/gcdFunction.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/gcdFunction.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/gcdFunction.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/maxInVector.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/maxInVector.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/maxInVector.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/pollardAlgo.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem3/pollardAlgo.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/pollardAlgo.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/checkIfPalindrome.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem4/checkIfPalindrome.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/checkIfPalindrome.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem4/checkIfPalindrome.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem4/generatePalindromes.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem4/generatePalindromes.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem4/generatePalindromes.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/gcdFunction.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/gcdFunction.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/gcdFunction.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/lcm.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/lcm.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/lcm.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/multipleLcms.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem5/multipleLcms.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem5/multipleLcms.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/squareOfSum.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/squareOfSum.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/squareOfSum.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/sumOfSquares.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problem6/sumOfSquares.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/sumOfSquares.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.cpp">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/CMakeLists.txt">
