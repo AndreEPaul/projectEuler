@@ -1,6 +1,5 @@
 /** This is a collection of solutions to ProjectEuler.net problems.
  * It will also test the runtime for each calculation.
- * (test commit for update 1.0)
  **/
 
 #include <iostream>
