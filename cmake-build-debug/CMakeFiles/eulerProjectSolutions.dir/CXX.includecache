@@ -13,8 +13,6 @@ chrono
 -
 vector
 -
-problems1_10/problem1/sumFunctionProb1.h
-/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.h
 problems1_10/problem2/fibFunctionProb2.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.h
 problems1_10/problem3/factorLargeNumber.h
@@ -31,8 +29,16 @@ problems1_10/problem6/sumOfSquares.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/sumOfSquares.h
 problems1_10/problem7/generateListOfPrimes.h
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.h
+problems1_10/problem1/Problem1.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h
 
-/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.cpp
+Problem1.h
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h
+
+/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h
+C:/Users/Andre/CLionProjects/eulerProjectSolutions/Euler.h
+-
 
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.h
 
@@ -101,4 +107,12 @@ vector
 -
 generateListOfPrimes.cpp
 /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.cpp
+
+C:/Users/Andre/CLionProjects/eulerProjectSolutions/Euler.h
+chrono
+-
+string
+-
+iostream
+-
 

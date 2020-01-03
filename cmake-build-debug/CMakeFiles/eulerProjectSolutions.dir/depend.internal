@@ -3,7 +3,7 @@
 
 CMakeFiles/eulerProjectSolutions.dir/main.cpp.o
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/main.cpp
- /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.h
+ /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.h
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/factorLargeNumber.h
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem3/maxInVector.cpp
@@ -21,8 +21,11 @@ CMakeFiles/eulerProjectSolutions.dir/main.cpp.o
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem6/sumOfSquares.h
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.cpp
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem7/generateListOfPrimes.h
-CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.o
- /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.cpp
+ C:/Users/Andre/CLionProjects/eulerProjectSolutions/Euler.h
+CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/Problem1.cpp.o
+ /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.cpp
+ /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h
+ C:/Users/Andre/CLionProjects/eulerProjectSolutions/Euler.h
 CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem2/fibFunctionProb2.cpp.o
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.cpp
  /cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/iterativeFib.hpp

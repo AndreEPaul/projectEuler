@@ -150,32 +150,32 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-problems1_10/problem1/sumFunctionProb1.o: problems1_10/problem1/sumFunctionProb1.cpp.o
+problems1_10/problem1/Problem1.o: problems1_10/problem1/Problem1.cpp.o
 
-.PHONY : problems1_10/problem1/sumFunctionProb1.o
+.PHONY : problems1_10/problem1/Problem1.o
 
 # target to build an object file
-problems1_10/problem1/sumFunctionProb1.cpp.o:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.o
-.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.o
+problems1_10/problem1/Problem1.cpp.o:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/Problem1.cpp.o
+.PHONY : problems1_10/problem1/Problem1.cpp.o
 
-problems1_10/problem1/sumFunctionProb1.i: problems1_10/problem1/sumFunctionProb1.cpp.i
+problems1_10/problem1/Problem1.i: problems1_10/problem1/Problem1.cpp.i
 
-.PHONY : problems1_10/problem1/sumFunctionProb1.i
+.PHONY : problems1_10/problem1/Problem1.i
 
 # target to preprocess a source file
-problems1_10/problem1/sumFunctionProb1.cpp.i:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.i
-.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.i
+problems1_10/problem1/Problem1.cpp.i:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/Problem1.cpp.i
+.PHONY : problems1_10/problem1/Problem1.cpp.i
 
-problems1_10/problem1/sumFunctionProb1.s: problems1_10/problem1/sumFunctionProb1.cpp.s
+problems1_10/problem1/Problem1.s: problems1_10/problem1/Problem1.cpp.s
 
-.PHONY : problems1_10/problem1/sumFunctionProb1.s
+.PHONY : problems1_10/problem1/Problem1.s
 
 # target to generate assembly for a file
-problems1_10/problem1/sumFunctionProb1.cpp.s:
-	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/sumFunctionProb1.cpp.s
-.PHONY : problems1_10/problem1/sumFunctionProb1.cpp.s
+problems1_10/problem1/Problem1.cpp.s:
+	$(MAKE) -f CMakeFiles/eulerProjectSolutions.dir/build.make CMakeFiles/eulerProjectSolutions.dir/problems1_10/problem1/Problem1.cpp.s
+.PHONY : problems1_10/problem1/Problem1.cpp.s
 
 problems1_10/problem2/fibFunctionProb2.o: problems1_10/problem2/fibFunctionProb2.cpp.o
 
@@ -567,9 +567,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... problems1_10/problem1/sumFunctionProb1.o"
-	@echo "... problems1_10/problem1/sumFunctionProb1.i"
-	@echo "... problems1_10/problem1/sumFunctionProb1.s"
+	@echo "... problems1_10/problem1/Problem1.o"
+	@echo "... problems1_10/problem1/Problem1.i"
+	@echo "... problems1_10/problem1/Problem1.s"
 	@echo "... problems1_10/problem2/fibFunctionProb2.o"
 	@echo "... problems1_10/problem2/fibFunctionProb2.i"
 	@echo "... problems1_10/problem2/fibFunctionProb2.s"

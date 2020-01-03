@@ -80,13 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/Euler.h">
+			<Option target="eulerProjectSolutions"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/main.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.cpp">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.cpp">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/sumFunctionProb1.h">
+		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem1/Problem1.h">
 			<Option target="eulerProjectSolutions"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Andre/CLionProjects/eulerProjectSolutions/problems1_10/problem2/fibFunctionProb2.cpp">

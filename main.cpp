@@ -5,7 +5,6 @@
 #include <iostream>
 #include <chrono>
 #include <vector>
-#include "problems1_10/problem1/sumFunctionProb1.h"
 #include "problems1_10/problem2/fibFunctionProb2.h"
 #include "problems1_10/problem3/factorLargeNumber.h"
 #include "problems1_10/problem3/maxInVector.h"
@@ -15,27 +14,19 @@
 #include "problems1_10/problem6/sumOfSquares.h"
 #include "problems1_10/problem7/generateListOfPrimes.h"
 
+// update 1.0:
+#include "problems1_10/problem1/Problem1.h"
+
 using std::cout;
 using std::endl;
 using std::vector;
 
 int main()
 {
-    /// Surround function calls with timestamps.
-    auto time1 = std::chrono::high_resolution_clock::now();
 
-    /// For now, pass literals to the sum function.
-    unsigned long long result1 = sumFunctionProb1(3,5,1000);
-
-    auto time2 = std::chrono::high_resolution_clock::now();
-    auto durationFunction = std::chrono::duration_cast<std::chrono::microseconds>(time2 - time1).count();
-
-    cout << "--------------------------------------\n";
-    cout << "PROBLEM 1: The sum of all multiples of 3 and 5 from 0 to 1000 is \n";
-    cout << result1 << " and this program took " << durationFunction << " microseconds\n";
-    cout << "to calculate this result. \n";
-    cout << "----------------------------------------" << endl;
-
+    Problem1 prob1;
+    prob1.calculateAnswer();
+/*
     /// Reassign times, call new function.
     time1 = std::chrono::high_resolution_clock::now();
 
@@ -143,6 +134,6 @@ int main()
     cout << result7 << " and this program took " << durationFunction << " microseconds\n";
     cout << "to calculate this result. \n";
     cout << "----------------------------------------" << endl;
-
+*/
     return 0;
 }

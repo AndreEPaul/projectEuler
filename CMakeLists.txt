@@ -5,8 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(eulerProjectSolutions
         main.cpp
-        problems1_10/problem1/sumFunctionProb1.cpp
-        problems1_10/problem1/sumFunctionProb1.h
         problems1_10/problem2/iterativeFib.cpp
         problems1_10/problem2/iterativeFib.hpp
         problems1_10/problem2/fibFunctionProb2.cpp
@@ -34,4 +32,4 @@ add_executable(eulerProjectSolutions
         problems1_10/problem6/squareOfSum.cpp
         problems1_10/problem6/squareOfSum.h
         problems1_10/problem7/generateListOfPrimes.cpp
-        problems1_10/problem7/generateListOfPrimes.h)
+        problems1_10/problem7/generateListOfPrimes.h Euler.h problems1_10/problem1/Problem1.cpp problems1_10/problem1/Problem1.h)
